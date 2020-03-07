@@ -1,1 +1,1 @@
-# gitlab-gitlab-CI
+# Repo for learning GitLab CI
